@@ -1,2 +1,2 @@
 # ssicc
-Pruba salvar features a BD Postgis
+Prueba salvar features a BD Postgis
